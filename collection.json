@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "currency": "CZK",
+  "games": [
+    {
+      "title": "Alone in the Dark",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 750,
+      "completeness": null
+    },
+    {
+      "title": "Black",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 450,
+      "completeness": null
+    },
+    {
+      "title": "Cold Fear",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": false,
+      "condition": null,
+      "estimatedValue": 650,
+      "completeness": "Částečně"
+    },
+    {
+      "title": "Crash Bandicoot",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 1400,
+      "completeness": null
+    },
+    {
+      "title": "Crash Nitro Kart",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 350,
+      "completeness": null
+    },
+    {
+      "title": "Crash",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 450,
+      "completeness": null
+    },
+    {
+      "title": "Devil May Cry",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 350,
+      "completeness": null
+    },
+    {
+      "title": "Diablo",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 4000,
+      "completeness": null
+    },
+    {
+      "title": "Dino Crisis",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 1800,
+      "completeness": null
+    },
+    {
+      "title": "FlatOut 2",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 700,
+      "completeness": null
+    },
+    {
+      "title": "Forbidden Siren 2",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 3000,
+      "completeness": null
+    },
+    {
+      "title": "God of War 2",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 700,
+      "completeness": null
+    },
+    {
+      "title": "God of War",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 650,
+      "completeness": null
+    },
+    {
+      "title": "GTA: San Andreas",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": true,
+      "condition": null,
+      "estimatedValue": 550,
+      "completeness": "ANO"
+    },
+    {
+      "title": "Harry Potter a Kámen mudrců",
+      "platform": "PS1",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 700,
+      "completeness": null
+    },
+    {
+      "title": "King Kong",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 150,
+      "completeness": null
+    },
+    {
+      "title": "Max Payne",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 450,
+      "completeness": null
+    },
+    {
+      "title": "Medal of Honor Frontline",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 150,
+      "completeness": null
+    },
+    {
+      "title": "Medal of Honor Rising Sun",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 150,
+      "completeness": null
+    },
+    {
+      "title": "Medal of Honor",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 1000,
+      "completeness": null
+    },
+    {
+      "title": "MediEvil",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 1400,
+      "completeness": null
+    },
+    {
+      "title": "Metal Gear Solid 2",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 300,
+      "completeness": null
+    },
+    {
+      "title": "Metal Gear Solid 3",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 450,
+      "completeness": null
+    },
+    {
+      "title": "Narnia",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 150,
+      "completeness": null
+    },
+    {
+      "title": "Need for Speed Underground 2",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 850,
+      "completeness": null
+    },
+    {
+      "title": "Need for Speed Underground",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 700,
+      "completeness": null
+    },
+    {
+      "title": "Oddworld",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 600,
+      "completeness": null
+    },
+    {
+      "title": "Onimusha 2",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 400,
+      "completeness": null
+    },
+    {
+      "title": "Onimusha",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 300,
+      "completeness": null
+    },
+    {
+      "title": "Project Zero 3",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 4000,
+      "completeness": null
+    },
+    {
+      "title": "Rayman",
+      "platform": "PS1",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 450,
+      "completeness": null
+    },
+    {
+      "title": "Resident Evil 1",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 1700,
+      "completeness": null
+    },
+    {
+      "title": "Resident Evil 2",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 2200,
+      "completeness": null
+    },
+    {
+      "title": "Resident Evil 3",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 2100,
+      "completeness": null
+    },
+    {
+      "title": "Resident Evil 4",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 600,
+      "completeness": null
+    },
+    {
+      "title": "Resident Evil Code: Veronica X",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 650,
+      "completeness": null
+    },
+    {
+      "title": "Shadow of the Colossus",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 1000,
+      "completeness": null
+    },
+    {
+      "title": "Silent Hill 2",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 2800,
+      "completeness": null
+    },
+    {
+      "title": "Silent Hill 3",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 3200,
+      "completeness": null
+    },
+    {
+      "title": "Silent Hill 4",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 2300,
+      "completeness": null
+    },
+    {
+      "title": "Silent Hill",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 4800,
+      "completeness": null
+    },
+    {
+      "title": "Spyro",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 850,
+      "completeness": null
+    },
+    {
+      "title": "Tekken 3",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 1200,
+      "completeness": null
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 300,
+      "completeness": null
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "platform": "PS2",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 250,
+      "completeness": null
+    },
+    {
+      "title": "Tomb Raider 2",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 600,
+      "completeness": null
+    },
+    {
+      "title": "Tomb Raider 3",
+      "platform": "PS1",
+      "status": "wanted",
+      "edition": null,
+      "manual": null,
+      "condition": null,
+      "estimatedValue": 500,
+      "completeness": null
+    },
+    {
+      "title": "Tomb Raider",
+      "platform": "PS1",
+      "status": "owned",
+      "edition": null,
+      "manual": true,
+      "condition": "Poškozená",
+      "estimatedValue": 400,
+      "completeness": "ANO"
+    }
+  ]
+}
