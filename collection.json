@@ -25,9 +25,9 @@
     {
       "title": "Cold Fear",
       "platform": "PS2",
-      "status": "wanted",
+      "status": "owned",
       "edition": null,
-      "manual": false,
+      "manual": null,
       "condition": null,
       "estimatedValue": 650,
       "completeness": "Částečně"
@@ -93,6 +93,16 @@
       "completeness": null
     },
     {
+      "title": "Dogz",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": true,
+      "condition": null,
+      "estimatedValue": 250,
+      "completeness": "ANO"
+    },
+    {
       "title": "FlatOut 2",
       "platform": "PS2",
       "status": "wanted",
@@ -151,6 +161,16 @@
       "condition": null,
       "estimatedValue": 700,
       "completeness": null
+    },
+    {
+      "title": "Killzone",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": true,
+      "condition": null,
+      "estimatedValue": 350,
+      "completeness": "ANO"
     },
     {
       "title": "King Kong",
@@ -245,12 +265,12 @@
     {
       "title": "Need for Speed Underground 2",
       "platform": "PS2",
-      "status": "wanted",
+      "status": "owned",
       "edition": null,
       "manual": null,
       "condition": null,
       "estimatedValue": 850,
-      "completeness": null
+      "completeness": "Částečně"
     },
     {
       "title": "Need for Speed Underground",
@@ -275,12 +295,12 @@
     {
       "title": "Onimusha 2",
       "platform": "PS2",
-      "status": "wanted",
+      "status": "owned",
       "edition": null,
       "manual": null,
       "condition": null,
       "estimatedValue": 400,
-      "completeness": null
+      "completeness": "Částečně"
     },
     {
       "title": "Onimusha",
@@ -301,6 +321,16 @@
       "condition": null,
       "estimatedValue": 4000,
       "completeness": null
+    },
+    {
+      "title": "Rayman M",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": true,
+      "condition": null,
+      "estimatedValue": 250,
+      "completeness": "ANO"
     },
     {
       "title": "Rayman",
@@ -365,12 +395,12 @@
     {
       "title": "Shadow of the Colossus",
       "platform": "PS2",
-      "status": "wanted",
+      "status": "owned",
       "edition": null,
       "manual": null,
       "condition": null,
       "estimatedValue": 1000,
-      "completeness": null
+      "completeness": "Částečně"
     },
     {
       "title": "Silent Hill 2",
@@ -395,12 +425,12 @@
     {
       "title": "Silent Hill 4",
       "platform": "PS2",
-      "status": "wanted",
+      "status": "owned",
       "edition": null,
       "manual": null,
       "condition": null,
       "estimatedValue": 2300,
-      "completeness": null
+      "completeness": "Částečně"
     },
     {
       "title": "Silent Hill",
@@ -411,6 +441,16 @@
       "condition": null,
       "estimatedValue": 4800,
       "completeness": null
+    },
+    {
+      "title": "Spartan: Total Warrior",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": true,
+      "condition": null,
+      "estimatedValue": 400,
+      "completeness": "ANO"
     },
     {
       "title": "Spyro",
@@ -433,6 +473,16 @@
       "completeness": null
     },
     {
+      "title": "The Getaway",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": true,
+      "condition": null,
+      "estimatedValue": 250,
+      "completeness": "ANO"
+    },
+    {
       "title": "The Lord of the Rings: The Return of the King",
       "platform": "PS2",
       "status": "owned",
@@ -445,12 +495,22 @@
     {
       "title": "The Lord of the Rings: The Two Towers",
       "platform": "PS2",
-      "status": "wanted",
+      "status": "owned",
       "edition": null,
       "manual": null,
       "condition": null,
       "estimatedValue": 250,
-      "completeness": null
+      "completeness": "Částečně"
+    },
+    {
+      "title": "The Lord of the Rings: Third Age",
+      "platform": "PS2",
+      "status": "owned",
+      "edition": null,
+      "manual": true,
+      "condition": null,
+      "estimatedValue": 350,
+      "completeness": "ANO"
     },
     {
       "title": "Tomb Raider 2",
